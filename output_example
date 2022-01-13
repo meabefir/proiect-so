@@ -1,0 +1,656 @@
+
+pid: 0 ppid: -1
+user ticks: 0
+system ticks: 2
+comm: swapper
+flags: 65536
+user id: 0
+nr of children processes: 18
+|   
+> --pid: 98859 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: smr
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 59774 ppid: 0
+|   user ticks: 0
+|   system ticks: 89
+|   comm: zerothread
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 7241 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: aiodoned
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 34320 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: update
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 22148 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: cleaner
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 61556 ppid: 0
+|   user ticks: 0
+|   system ticks: 25
+|   comm: reaper
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 3223 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: pagedaemon
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 40271 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: crynlk
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 89688 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: crypto
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 17917 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: usbtask
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 39807 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: usbatsk
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 98847 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: acpi0
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 47950 ppid: 0
+|   user ticks: 0
+|   system ticks: 1
+|   comm: softnet
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 34239 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: systqmp
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 44315 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: systq
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 1631 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: softclock
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 10537 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: idle0
+|   flags: 81920
+|   user id: 0
+|   nr of children processes: 0
+|   
+> --pid: 1 ppid: 0
+|   user ticks: 0
+|   system ticks: 0
+|   comm: init
+|   flags: 2
+|   user id: 0
+|   nr of children processes: 35
+    |   
+    > --pid: 43320 ppid: 1
+    |   user ticks: 24
+    |   system ticks: 7
+    |   comm: xfce4-terminal
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 1
+    |   |   
+    |   > --pid: 69757 ppid: 43320
+    |   |   user ticks: 0
+    |   |   system ticks: 0
+    |   |   comm: ksh
+    |   |   flags: 1048579
+    |   |   user id: 1000
+    |   |   nr of children processes: 1
+    |       |   
+    |       > --pid: 12240 ppid: 69757
+    |       |   user ticks: 0
+    |       |   system ticks: 0
+    |       |   comm: p
+    |       |   flags: 3
+    |       |   user id: 1000
+    |       |   nr of children processes: 0
+    |   
+    > --pid: 42730 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 1
+    |   comm: gvfsd-metadata
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 6336 ppid: 1
+    |   user ticks: 1
+    |   system ticks: 0
+    |   comm: dconf-service
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 6342 ppid: 1
+    |   user ticks: 67
+    |   system ticks: 5
+    |   comm: mousepad
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 23856 ppid: 1
+    |   user ticks: 6
+    |   system ticks: 6
+    |   comm: tumblerd
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 38137 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: gpg-agent
+    |   flags: 0
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 23546 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: ssh-agent
+    |   flags: 1048624
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 20703 ppid: 1
+    |   user ticks: 8
+    |   system ticks: 3
+    |   comm: xfce4-screensave
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 52711 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 2
+    |   comm: gvfsd
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 1
+    |   |   
+    |   > --pid: 86806 ppid: 52711
+    |   |   user ticks: 0
+    |   |   system ticks: 2
+    |   |   comm: gvfsd-trash
+    |   |   flags: 2
+    |   |   user id: 1000
+    |   |   nr of children processes: 0
+    |   
+    > --pid: 90483 ppid: 1
+    |   user ticks: 3
+    |   system ticks: 1
+    |   comm: at-spi2-registry
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 86089 ppid: 1
+    |   user ticks: 9
+    |   system ticks: 2
+    |   comm: xfconfd
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 35010 ppid: 1
+    |   user ticks: 2
+    |   system ticks: 1
+    |   comm: at-spi-bus-launc
+    |   flags: 2
+    |   user id: 1000
+    |   nr of children processes: 1
+    |   |   
+    |   > --pid: 48223 ppid: 35010
+    |   |   user ticks: 3
+    |   |   system ticks: 2
+    |   |   comm: dbus-daemon
+    |   |   flags: 2
+    |   |   user id: 1000
+    |   |   nr of children processes: 0
+    |   
+    > --pid: 45924 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: dbus-launch
+    |   flags: 0
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 74342 ppid: 1
+    |   user ticks: 10
+    |   system ticks: 7
+    |   comm: dbus-daemon
+    |   flags: 0
+    |   user id: 1000
+    |   nr of children processes: 0
+    |   
+    > --pid: 9606 ppid: 1
+    |   user ticks: 2
+    |   system ticks: 7
+    |   comm: polkitd
+    |   flags: 18
+    |   user id: 701
+    |   nr of children processes: 0
+    |   
+    > --pid: 34365 ppid: 1
+    |   user ticks: 4
+    |   system ticks: 3
+    |   comm: console-kit-daem
+    |   flags: 2
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 40110 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: getty
+    |   flags: 1048579
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 66362 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: getty
+    |   flags: 1048579
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 94890 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: getty
+    |   flags: 1048579
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 79108 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: getty
+    |   flags: 1048579
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 92950 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 1
+    |   comm: getty
+    |   flags: 1048579
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 11405 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: cron
+    |   flags: 1048592
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 371 ppid: 1
+    |   user ticks: 16
+    |   system ticks: 3
+    |   comm: slim
+    |   flags: 0
+    |   user id: 0
+    |   nr of children processes: 2
+    |   |   
+    |   > --pid: 63169 ppid: 371
+    |   |   user ticks: 0
+    |   |   system ticks: 1
+    |   |   comm: ck-launch-sessio
+    |   |   flags: 2
+    |   |   user id: 1000
+    |   |   nr of children processes: 1
+    |   |   |   
+    |   |   > --pid: 30153 ppid: 63169
+    |   |   |   user ticks: 14
+    |   |   |   system ticks: 9
+    |   |   |   comm: xfce4-session
+    |   |   |   flags: 2
+    |   |   |   user id: 1000
+    |   |   |   nr of children processes: 6
+    |   |       |   
+    |   |       > --pid: 70194 ppid: 30153
+    |   |       |   user ticks: 0
+    |   |       |   system ticks: 1
+    |   |       |   comm: agent
+    |   |       |   flags: 2
+    |   |       |   user id: 1000
+    |   |       |   nr of children processes: 0
+    |   |       |   
+    |   |       > --pid: 69601 ppid: 30153
+    |   |       |   user ticks: 138
+    |   |       |   system ticks: 31
+    |   |       |   comm: xfdesktop
+    |   |       |   flags: 2
+    |   |       |   user id: 1000
+    |   |       |   nr of children processes: 0
+    |   |       |   
+    |   |       > --pid: 79403 ppid: 30153
+    |   |       |   user ticks: 240
+    |   |       |   system ticks: 10
+    |   |       |   comm: thunar
+    |   |       |   flags: 2
+    |   |       |   user id: 1000
+    |   |       |   nr of children processes: 0
+    |   |       |   
+    |   |       > --pid: 47631 ppid: 30153
+    |   |       |   user ticks: 182
+    |   |       |   system ticks: 16
+    |   |       |   comm: xfce4-panel
+    |   |       |   flags: 2
+    |   |       |   user id: 1000
+    |   |       |   nr of children processes: 3
+    |   |       |   |   
+    |   |       |   > --pid: 77439 ppid: 47631
+    |   |       |   |   user ticks: 20
+    |   |       |   |   system ticks: 2
+    |   |       |   |   comm: wrapper-2.0
+    |   |       |   |   flags: 2
+    |   |       |   |   user id: 1000
+    |   |       |   |   nr of children processes: 0
+    |   |       |   |   
+    |   |       |   > --pid: 86145 ppid: 47631
+    |   |       |   |   user ticks: 19
+    |   |       |   |   system ticks: 5
+    |   |       |   |   comm: wrapper-2.0
+    |   |       |   |   flags: 2
+    |   |       |   |   user id: 1000
+    |   |       |   |   nr of children processes: 0
+    |   |       |   |   
+    |   |       |   > --pid: 14186 ppid: 47631
+    |   |       |   |   user ticks: 20
+    |   |       |   |   system ticks: 2
+    |   |       |   |   comm: wrapper-2.0
+    |   |       |   |   flags: 2
+    |   |       |   |   user id: 1000
+    |   |       |   |   nr of children processes: 0
+    |   |       |   
+    |   |       > --pid: 39885 ppid: 30153
+    |   |       |   user ticks: 14
+    |   |       |   system ticks: 3
+    |   |       |   comm: xfsettingsd
+    |   |       |   flags: 2
+    |   |       |   user id: 1000
+    |   |       |   nr of children processes: 0
+    |   |       |   
+    |   |       > --pid: 10378 ppid: 30153
+    |   |       |   user ticks: 49
+    |   |       |   system ticks: 22
+    |   |       |   comm: xfwm4
+    |   |       |   flags: 2
+    |   |       |   user id: 1000
+    |   |       |   nr of children processes: 0
+    |   |   
+    |   > --pid: 27186 ppid: 371
+    |   |   user ticks: 289
+    |   |   system ticks: 120
+    |   |   comm: Xorg
+    |   |   flags: 18
+    |   |   user id: 35
+    |   |   nr of children processes: 1
+    |       |   
+    |       > --pid: 6597 ppid: 27186
+    |       |   user ticks: 0
+    |       |   system ticks: 0
+    |       |   comm: Xorg
+    |       |   flags: 1048576
+    |       |   user id: 0
+    |       |   nr of children processes: 0
+    |   
+    > --pid: 95183 ppid: 1
+    |   user ticks: 1
+    |   system ticks: 3
+    |   comm: dbus-daemon
+    |   flags: 16
+    |   user id: 572
+    |   nr of children processes: 0
+    |   
+    > --pid: 78439 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: sndiod
+    |   flags: 1048592
+    |   user id: 110
+    |   nr of children processes: 0
+    |   
+    > --pid: 21928 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: sndiod
+    |   flags: 1048592
+    |   user id: 99
+    |   nr of children processes: 0
+    |   
+    > --pid: 77774 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 1
+    |   comm: smtpd
+    |   flags: 1048576
+    |   user id: 0
+    |   nr of children processes: 6
+    |   |   
+    |   > --pid: 75667 ppid: 77774
+    |   |   user ticks: 0
+    |   |   system ticks: 0
+    |   |   comm: smtpd
+    |   |   flags: 1048594
+    |   |   user id: 95
+    |   |   nr of children processes: 0
+    |   |   
+    |   > --pid: 87196 ppid: 77774
+    |   |   user ticks: 0
+    |   |   system ticks: 1
+    |   |   comm: smtpd
+    |   |   flags: 1048594
+    |   |   user id: 103
+    |   |   nr of children processes: 0
+    |   |   
+    |   > --pid: 16071 ppid: 77774
+    |   |   user ticks: 0
+    |   |   system ticks: 1
+    |   |   comm: smtpd
+    |   |   flags: 1048594
+    |   |   user id: 95
+    |   |   nr of children processes: 0
+    |   |   
+    |   > --pid: 96204 ppid: 77774
+    |   |   user ticks: 0
+    |   |   system ticks: 0
+    |   |   comm: smtpd
+    |   |   flags: 1048594
+    |   |   user id: 95
+    |   |   nr of children processes: 0
+    |   |   
+    |   > --pid: 77833 ppid: 77774
+    |   |   user ticks: 0
+    |   |   system ticks: 0
+    |   |   comm: smtpd
+    |   |   flags: 1048594
+    |   |   user id: 95
+    |   |   nr of children processes: 0
+    |   |   
+    |   > --pid: 74734 ppid: 77774
+    |   |   user ticks: 0
+    |   |   system ticks: 1
+    |   |   comm: smtpd
+    |   |   flags: 1048594
+    |   |   user id: 95
+    |   |   nr of children processes: 0
+    |   
+    > --pid: 58420 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: sshd
+    |   flags: 0
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 9723 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 2
+    |   comm: ntpd
+    |   flags: 1048594
+    |   user id: 83
+    |   nr of children processes: 1
+    |   |   
+    |   > --pid: 33303 ppid: 9723
+    |   |   user ticks: 0
+    |   |   system ticks: 1
+    |   |   comm: ntpd
+    |   |   flags: 1048594
+    |   |   user id: 83
+    |   |   nr of children processes: 0
+    |   
+    > --pid: 36240 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: ntpd
+    |   flags: 1048576
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 91089 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: pflogd
+    |   flags: 0
+    |   user id: 0
+    |   nr of children processes: 1
+    |   |   
+    |   > --pid: 93241 ppid: 91089
+    |   |   user ticks: 0
+    |   |   system ticks: 0
+    |   |   comm: pflogd
+    |   |   flags: 1048594
+    |   |   user id: 74
+    |   |   nr of children processes: 0
+    |   
+    > --pid: 94523 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: syslogd
+    |   flags: 1048578
+    |   user id: 0
+    |   nr of children processes: 1
+    |   |   
+    |   > --pid: 85989 ppid: 94523
+    |   |   user ticks: 0
+    |   |   system ticks: 0
+    |   |   comm: syslogd
+    |   |   flags: 1048592
+    |   |   user id: 73
+    |   |   nr of children processes: 0
+    |   
+    > --pid: 73541 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: dhclient
+    |   flags: 1048592
+    |   user id: 77
+    |   nr of children processes: 0
+    |   
+    > --pid: 24582 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: dhclient
+    |   flags: 0
+    |   user id: 0
+    |   nr of children processes: 0
+    |   
+    > --pid: 71506 ppid: 1
+    |   user ticks: 0
+    |   system ticks: 0
+    |   comm: slaacd
+    |   flags: 1048576
+    |   user id: 0
+    |   nr of children processes: 2
+        |   
+        > --pid: 46131 ppid: 71506
+        |   user ticks: 0
+        |   system ticks: 0
+        |   comm: slaacd
+        |   flags: 1048594
+        |   user id: 115
+        |   nr of children processes: 0
+        |   
+        > --pid: 31134 ppid: 71506
+        |   user ticks: 0
+        |   system ticks: 0
+        |   comm: slaacd
+        |   flags: 1048594
+        |   user id: 115
+        |   nr of children processes: 0
